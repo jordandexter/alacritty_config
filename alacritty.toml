@@ -1,0 +1,17 @@
+import = [
+	"~/.config/alacritty/themes/gruvbox_dark.toml"
+]
+working_directory = "C:/Users/jdbde/"
+
+[window]
+dimensions = { columns = 240, lines = 60 }
+title = "Dex"
+
+[cursor]
+style = { shape="Underline", blinking="On" }
+thickness = 0.25
+
+[font]
+normal = { family = "Consolas", style = "Bold" }
+
+
